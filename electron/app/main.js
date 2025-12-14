@@ -818,6 +818,7 @@ app.on("window-all-closed", () => {
   }
 });
 
+
 app.on("before-quit", () => {
   isQuitting = true;
   stopBackend();
