@@ -1,0 +1,282 @@
+[
+  {
+    "_id": "01-jammu & kashmir",
+    "stateName": "Jammu & Kashmir",
+    "gstCode": "01",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "02-himachal pradesh",
+    "stateName": "Himachal Pradesh",
+    "gstCode": "02",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "03-punjab",
+    "stateName": "Punjab",
+    "gstCode": "03",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "04-chandigarh",
+    "stateName": "Chandigarh",
+    "gstCode": "04",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "05-uttarakhand",
+    "stateName": "Uttarakhand",
+    "gstCode": "05",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "06-haryana",
+    "stateName": "Haryana",
+    "gstCode": "06",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "07-delhi",
+    "stateName": "Delhi",
+    "gstCode": "07",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "08-rajasthan",
+    "stateName": "Rajasthan",
+    "gstCode": "08",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "09-uttar pradesh",
+    "stateName": "Uttar Pradesh",
+    "gstCode": "09",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "10-bihar",
+    "stateName": "Bihar",
+    "gstCode": "10",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "11-sikkim",
+    "stateName": "Sikkim",
+    "gstCode": "11",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "12-arunachal pradesh",
+    "stateName": "Arunachal Pradesh",
+    "gstCode": "12",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "13-nagaland",
+    "stateName": "Nagaland",
+    "gstCode": "13",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "14-manipur",
+    "stateName": "Manipur",
+    "gstCode": "14",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "15-mizoram",
+    "stateName": "Mizoram",
+    "gstCode": "15",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "16-tripura",
+    "stateName": "Tripura",
+    "gstCode": "16",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "17-meghalaya",
+    "stateName": "Meghalaya",
+    "gstCode": "17",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "18-assam",
+    "stateName": "Assam",
+    "gstCode": "18",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "19-west bengal",
+    "stateName": "West Bengal",
+    "gstCode": "19",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "20-jharkhand",
+    "stateName": "Jharkhand",
+    "gstCode": "20",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "21-odisha",
+    "stateName": "Odisha",
+    "gstCode": "21",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "22-chhattisgarh",
+    "stateName": "Chhattisgarh",
+    "gstCode": "22",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "23-madhya pradesh",
+    "stateName": "Madhya Pradesh",
+    "gstCode": "23",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "24-gujarat",
+    "stateName": "Gujarat",
+    "gstCode": "24",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "25-daman & diu",
+    "stateName": "Daman & Diu",
+    "gstCode": "25",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "26-dadra & nagar haveli",
+    "stateName": "Dadra & Nagar Haveli",
+    "gstCode": "26",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "27-maharashtra",
+    "stateName": "Maharashtra",
+    "gstCode": "27",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "28-andhra pradesh (old)",
+    "stateName": "Andhra Pradesh (Old)",
+    "gstCode": "28",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "29-karnataka",
+    "stateName": "Karnataka",
+    "gstCode": "29",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "30-goa",
+    "stateName": "Goa",
+    "gstCode": "30",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "31-lakshadweep",
+    "stateName": "Lakshadweep",
+    "gstCode": "31",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "32-kerala",
+    "stateName": "Kerala",
+    "gstCode": "32",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "33-tamil nadu",
+    "stateName": "Tamil Nadu",
+    "gstCode": "33",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "34-puducherry",
+    "stateName": "Puducherry",
+    "gstCode": "34",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "35-andaman & nicobar islands",
+    "stateName": "Andaman & Nicobar Islands",
+    "gstCode": "35",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "36-telangana",
+    "stateName": "Telangana",
+    "gstCode": "36",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "37-andhra pradesh (newly added)",
+    "stateName": "Andhra Pradesh (Newly Added)",
+    "gstCode": "37",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "38-ladakh (newly added)",
+    "stateName": "Ladakh (Newly Added)",
+    "gstCode": "38",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "97-others territory",
+    "stateName": "Others Territory",
+    "gstCode": "97",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  },
+  {
+    "_id": "99-center jurisdiction",
+    "stateName": "Center Jurisdiction",
+    "gstCode": "99",
+    "createdAt": "2025-11-22T12:04:28.658Z",
+    "updatedAt": "2025-11-22T12:04:28.658Z"
+  }
+]

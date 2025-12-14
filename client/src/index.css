@@ -1,0 +1,209 @@
+@import "tailwindcss";
+
+.login-screen {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle at top, #1f2933, #050505);
+  padding: 24px;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 420px;
+  background: rgba(15, 23, 42, 0.95);
+  border-radius: 16px;
+  padding: 28px 24px 24px;
+  box-shadow:
+    0 18px 60px rgba(0, 0, 0, 0.7),
+    0 0 0 1px rgba(148, 163, 184, 0.15);
+  backdrop-filter: blur(14px);
+}
+
+.login-title {
+  margin: 0 0 4px;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.login-subtitle {
+  margin: 0 0 20px;
+  font-size: 13px;
+  color: #9ca3af;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.login-label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 13px;
+  color: #e5e7eb;
+}
+
+.login-input {
+  border-radius: 10px;
+  border: 1px solid rgba(148, 163, 184, 0.5);
+  padding: 8px 10px;
+  font-size: 13px;
+  background-color: rgba(15, 23, 42, 0.9);
+  color: #f9fafb;
+  outline: none;
+  transition:
+    border-color 120ms ease,
+    box-shadow 120ms ease,
+    background-color 120ms ease;
+}
+
+.login-input:focus {
+  border-color: #38bdf8;
+  box-shadow: 0 0 0 1px rgba(56, 189, 248, 0.8);
+  background-color: rgba(15, 23, 42, 1);
+}
+
+.login-button {
+  margin-top: 8px;
+  border-radius: 999px;
+  border: none;
+  padding: 9px 14px;
+  font-size: 14px;
+  font-weight: 500;
+  background: linear-gradient(135deg, #22c55e, #16a34a);
+  color: #ecfdf5;
+  cursor: pointer;
+  transition:
+    transform 120ms ease,
+    box-shadow 120ms ease,
+    opacity 120ms ease;
+  box-shadow:
+    0 10px 30px rgba(22, 163, 74, 0.4),
+    0 0 0 1px rgba(34, 197, 94, 0.5);
+}
+
+.login-button:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow:
+    0 14px 40px rgba(22, 163, 74, 0.6),
+    0 0 0 1px rgba(34, 197, 94, 0.85);
+}
+
+.login-button:disabled {
+  opacity: 0.6;
+  cursor: default;
+  box-shadow: none;
+}
+
+.login-alert {
+  margin-bottom: 10px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  font-size: 12px;
+}
+
+.login-alert-error {
+  background-color: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(248, 113, 113, 0.5);
+  color: #fecaca;
+}
+
+.offline-banner {
+  width: 100%;
+  text-align: center;
+  padding: 6px 12px;
+  font-size: 12px;
+  background-color: rgba(248, 113, 113, 0.1);
+  border-bottom: 1px solid rgba(248, 113, 113, 0.4);
+  color: #fecaca;
+}
+
+.master-badge {
+  position: fixed;
+  top: 10px;
+  right: 12px;
+  z-index: 40;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: radial-gradient(circle at top left, #22c55e, #14532d);
+  box-shadow:
+    0 10px 30px rgba(21, 128, 61, 0.6),
+    0 0 0 1px rgba(134, 239, 172, 0.5);
+}
+
+.master-badge--standard {
+  background: radial-gradient(circle at top left, #6366f1, #312e81);
+  box-shadow:
+    0 10px 30px rgba(79, 70, 229, 0.5),
+    0 0 0 1px rgba(165, 180, 252, 0.5);
+}
+
+.master-badge--restricted {
+  background: radial-gradient(circle at top left, #f97316, #7c2d12);
+  box-shadow:
+    0 10px 30px rgba(249, 115, 22, 0.4),
+    0 0 0 1px rgba(254, 215, 170, 0.5);
+}
+
+.master-badge--master {
+  background: radial-gradient(circle at top left, #22c55e, #14532d);
+}
+
+.master-badge-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: #ecfdf3;
+}
+
+.master-badge-email {
+  font-size: 11px;
+  color: #dcfce7;
+}
+
+.master-badge-status {
+  margin-top: 2px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.master-badge-logout {
+  margin-left: 8px;
+  border-radius: 999px;
+  border: none;
+  padding: 3px 8px;
+  font-size: 11px;
+  font-weight: 500;
+  background-color: rgba(15, 23, 42, 0.2);
+  color: #f9fafb;
+  cursor: pointer;
+  transition:
+    background-color 120ms ease,
+    transform 120ms ease,
+    box-shadow 120ms ease;
+}
+
+.master-badge-logout:hover {
+  background-color: rgba(15, 23, 42, 0.4);
+  transform: translateY(-0.5px);
+  box-shadow: 0 0 0 1px rgba(226, 232, 240, 0.4);
+}
+
+

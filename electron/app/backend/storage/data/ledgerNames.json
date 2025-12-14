@@ -1,0 +1,206 @@
+[
+  {
+    "_id": "64148547-c401-4054-ba6e-1a79ad9ccc8a",
+    "name": "Insurance Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "36f31608-8812-42cd-82f5-e70b33cbe59a",
+    "name": "Freight & Octroi Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "d79a9253-2b1f-46d1-bb9b-fb462507e72a",
+    "name": "Transportation Charges",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "73273ac1-b7f6-4f08-bc18-b6155b7b9209",
+    "name": "Rate & Taxes",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "cc9f4978-c7fb-472b-b079-fad37ccc803d",
+    "name": "Security Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "0dbe4c45-73e5-427d-b4b4-3aadb55fc646",
+    "name": "Cleaning Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "458cd7bd-220c-42a8-9d7e-41887f87937a",
+    "name": "Discount & Kasar",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "c9c3a442-31ec-4a0b-b307-57d6c72d4bc1",
+    "name": "Royalty / Lease Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "c9e6cb01-bf7d-426d-b965-b5a8dba5384d",
+    "name": "Paymen Insuranc",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "d0f14c2f-fb10-4686-8760-dc3bdf8cd4a3",
+    "name": "Paymen",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "61852d73-99cb-4c3d-899b-df88b0ce0f6a",
+    "name": "Paymen Other tr",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "5c6db342-b757-4d17-9691-f95a7b7c78c2",
+    "name": "Paymer",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "763d12c1-27ec-47fa-a29c-217487f276ac",
+    "name": "Payme securit",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "02b28d94-bbcf-4542-aa95-e2705694c926",
+    "name": "Paym",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "e83fabb9-0fa5-4b16-8bf3-219319874c17",
+    "name": "Disc cust",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "25bc08c6-01b9-45ce-b453-6d7fa5cf7434",
+    "name": "Petrol and diesel Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "783e3d39-5562-4192-8f6c-e8150b07c135",
+    "name": "Director's Remuneration",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "ec5880ed-9d85-496d-a390-27df886bed5b",
+    "name": "Salary",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "397bc7ce-b28c-45cb-a7a8-864bda0bbe9f",
+    "name": "Bonus payment",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "ca99684e-ce40-4e96-815d-f06b33fa1879",
+    "name": "Wages",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "7e5c28be-33e0-4ed5-beb3-d2f9283272e9",
+    "name": "Recruitment Expenses",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "be18c55f-2c8e-42fd-88ba-af1eecad2c44",
+    "name": "License Fees",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "d8d20c5c-cb91-4805-9fde-a2766d43858a",
+    "name": "Commission & Brokerage Charges",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "6bfbf645-63a1-4c3a-93d7-93d06b4e05ff",
+    "name": "Advertisement Expenses",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "5df1cb0a-1977-46c3-907a-f22411968a87",
+    "name": "Sales Promotion Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "0e428fa6-298b-40c4-9b67-614b4289425d",
+    "name": "Business Promotion Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "e4f5cfc2-6682-4f23-b0df-2300eacb966a",
+    "name": "Professional Tax",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "8d22ea76-5711-48cd-b1bb-a7b42d456a89",
+    "name": "Penalty",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "7ff1d05a-0463-44ce-a8b5-b6b5d92ab272",
+    "name": "Telephone & Mobile Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "dad2667e-0878-4a00-8749-78da8920cbb4",
+    "name": "Electricity Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "849edf85-37de-47fc-bd2a-6204408b88ae",
+    "name": "Financial Charges",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "1718c122-f5bb-4fb3-a004-11f794cabbd0",
+    "name": "Bank Charges",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "60361e33-607c-4abd-b7ab-3b20542494ec",
+    "name": "Repair & Maintenance Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  },
+  {
+    "_id": "1db73200-11b1-4395-87df-e6052b976e94",
+    "name": "Vehicles Expense",
+    "createdAt": "2025-11-22T12:04:28.662Z",
+    "updatedAt": "2025-11-22T12:04:28.662Z"
+  }
+]

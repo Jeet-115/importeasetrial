@@ -1,0 +1,6 @@
+node_modules
+backend/storage/data/
+electron/dist
+electron/app/client/dist
+electron/app/backend/config/db.js
+electron/storage

@@ -1,0 +1,26 @@
+{
+  "name": "tallyhelpersoftwareversion",
+  "version": "1.0.4",
+  "private": true,
+  "scripts": {
+  "dev:backend": "cd backend && npm run dev",
+  "dev:client": "cd client && npm run dev",
+  "dev:electron": "cd electron && npm start",
+  "dev": "concurrently \"npm run dev:backend\" \"npm run dev:client\" \"npm run dev:electron\"",
+
+  "build:client": "cd client && npm run build",
+
+  "copy:client": "if exist electron\\app\\client rmdir /S /Q electron\\app\\client && mkdir electron\\app\\client && mkdir electron\\app\\client\\dist && xcopy client\\dist\\* electron\\app\\client\\dist /E /I /Y",
+
+  "build:electron": "cd electron && npm run build",
+
+  "dist": "npm run build:client && npm run copy:client && npm run build:electron",
+
+  "dist:publish": "npm run build:client && npm run copy:client && cd electron && npm run publish",
+  "check:renderer": "powershell -Command \"cd electron/app/client/dist; if (Test-Path 'index.html') { Write-Host '✔ index.html FOUND'; Get-Item 'index.html' | Select-Object Name, Length } else { Write-Host '❌ index.html NOT FOUND' }\""
+},
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}
+
